@@ -1,0 +1,11 @@
+commit bd3448b2c2b18cd3af5060a39a599ca84f5a6f69 (HEAD -> master)
+Author: AlexDyabkin <alexendredyabkin@gmail.com>
+Date:   Mon Feb 17 11:56:05 2020 +0300
+
+    add status
+
+commit ddd61c1185a86318948fbf3d4fb30ce262205a51
+Author: AlexDyabkin <alexendredyabkin@gmail.com>
+Date:   Mon Feb 17 11:43:25 2020 +0300
+
+    add.gitignore
